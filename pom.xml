@@ -41,7 +41,7 @@
         <dependency>
             <groupId>simple</groupId>
             <artifactId>simple</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>CURRENT</version>
         </dependency>
 
     </dependencies>
